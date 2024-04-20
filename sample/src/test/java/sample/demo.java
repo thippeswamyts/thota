@@ -7,7 +7,7 @@ public class demo {
 	@Test
 	public void sample()
 	{
-		System.out.println("hello for jenkins please execute");
+		System.out.println("hello for jenkins please execute,,,,,,,,,");
 	}
 	
 }
